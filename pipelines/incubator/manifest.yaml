@@ -3,9 +3,5 @@ contents:
   sha256: 269bb7783cabf90deea3bb81a15e2251f5d161fabbdee2ea86ccc84418848c56
 - file: tasks/deploy-application.yaml
   sha256: f9385cb341ada24be1420d5f3f99bd2816c541244cd4d799c4674141c8f94a2d
-- file: .DS_Store
-  sha256: 79c6be89def9e4b1dcaa138f94b83ce0ea7fbaf5a1a091854d1fe2febf06d8af
 - file: pipelines/application-pipeline.yaml
   sha256: ebf8747f9ea678ab9620daa4b7eef2162bb80605e13598af8f59aaabcfc3bd23
-- file: templates/.DS_Store
-  sha256: d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3
