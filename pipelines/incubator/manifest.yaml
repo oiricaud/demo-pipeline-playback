@@ -1,7 +1,0 @@
-contents:
-- file: tasks/build-image-from-source.yaml
-  sha256: 269bb7783cabf90deea3bb81a15e2251f5d161fabbdee2ea86ccc84418848c56
-- file: tasks/deploy-application.yaml
-  sha256: f9385cb341ada24be1420d5f3f99bd2816c541244cd4d799c4674141c8f94a2d
-- file: pipelines/application-pipeline.yaml
-  sha256: ebf8747f9ea678ab9620daa4b7eef2162bb80605e13598af8f59aaabcfc3bd23
